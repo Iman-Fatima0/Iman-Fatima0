@@ -2,11 +2,9 @@
 
 <div align="center">
 
-  ![Debugging Meme](https://i.pinimg.com/originals/2h/Xy/Uh/2hXyUh2d2.jpg) <!-- Pinterest direct image link -->
-
   *"Debugging: Being the detective in a crime movie where you are also the murderer"*
 
-  ## 💅 about me (she/her)
+  ##  about me (she/her)
 const iman = {</br>
   pronouns: "she/her",</br>
   code: ["js", "ts", "c++", "python"],</br>
