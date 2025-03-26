@@ -6,7 +6,7 @@
   ## 💅 about me (she/her)
 const iman = {
   pronouns: "she/her",
-  code: ["js", "ts", "c++", "python"],
+  code: ["js", "ts", "c++", "python"],</br>
   databases: ["postgres", "mongo", "mySQL"],
   architecture: ["microservices", "event-driven", "serverless"],
   currentFocus: "building dope fullstack apps",
