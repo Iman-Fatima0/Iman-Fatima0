@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠 Tech Stack (Logo-Only)
+## 🛠 Tech Stack
 <div align="center">
   
   ### Languages
