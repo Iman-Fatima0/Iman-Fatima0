@@ -4,14 +4,14 @@
 
   ![Header](https://github.blog/wp-content/uploads/2023/10/Collaboration-DarkMode-3.png?fit=1200%2C630)
   ## 💅 about me (she/her)
-const iman = {
-  pronouns: "she/her",
+const iman = {</br>
+  pronouns: "she/her",</br>
   code: ["js", "ts", "c++", "python"],</br>
-  databases: ["postgres", "mongo", "mySQL"],
-  architecture: ["microservices", "event-driven", "serverless"],
-  currentFocus: "building dope fullstack apps",
-  funFact: "can debug while binge-watching Netflix"
-};
+  databases: ["postgres", "mongo", "mySQL"],</br>
+  architecture: ["microservices", "event-driven", "serverless"],</br>
+  currentFocus: "building dope fullstack apps",</br>
+  funFact: "can debug while binge-watching Netflix"</br>
+};</br>
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iman-Fatima0&show_icons=true&count_private=true&title_color=655aff&text_color=ffffff&icon_color=655aff&bg_color=0d1117&hide_border=true)
 
