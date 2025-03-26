@@ -38,7 +38,7 @@ const iman = {
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a> 
   <a href="mailto:iman.f8094@gmail.com" title="Email">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="40 />
   </a> 
   <a href="https://github.com/Iman-Fatima0" title="GitHub">
     <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
