@@ -22,50 +22,63 @@
 ---
 
 ## 🛠 Tech Stack
-<div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center; margin: 2rem 0;">
-
-  <!-- Languages Card -->
-  <div style="background: rgba(13,17,23,0.7); border-radius: 12px; padding: 1.5rem; border: 1px solid rgba(101,90,255,0.3); min-width: 250px;">
-    <h3 align="center" style="color: #b3b3ff; margin-top: 0;">Languages</h3>
-    <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
-    </div>
-  </div>
-
-  <!-- Databases Card -->
-  <div style="background: rgba(13,17,23,0.7); border-radius: 12px; padding: 1.5rem; border: 1px solid rgba(101,90,255,0.3); min-width: 250px;">
-    <h3 align="center" style="color: #b3b3ff; margin-top: 0;">Databases</h3>
-    <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
-    </div>
-  </div>
-
-  <!-- Tools Card -->
-  <div style="background: rgba(13,17,23,0.7); border-radius: 12px; padding: 1.5rem; border: 1px solid rgba(101,90,255,0.3); min-width: 250px;">
-    <h3 align="center" style="color: #b3b3ff; margin-top: 0;">Tools</h3>
-    <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" title="Tailwind CSS"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="40" title="Playwright"/>
-    </div>
-  </div>
-
-</div>
+<table align="center">
+  <tr>
+    <!-- Languages -->
+    <td valign="top" width="33%">
+      <h3 align="center"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original-wordmark.svg" width="20"/> 
+        Languages
+      </h3>
+      <p align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
+      </p>
+    </td>
+    
+    <!-- Databases -->
+    <td valign="top" width="33%">
+      <h3 align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/database/database-original.svg" width="20"/> 
+        Databases
+      </h3>
+      <p align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
+      </p>
+    </td>
+    
+    <!-- Tools -->
+    <td valign="top" width="33%">
+      <h3 align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tools/tools-original.svg" width="20"/> 
+        Tools
+      </h3>
+      <p align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" title="Tailwind"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="40" title="Playwright"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📫 Connect With Me
-<div align="center">
-  <a href="https://www.linkedin.com/in/iman-fatima-207a912a9/">
-    <img src="https://img.shields.io/badge/-LinkedIn-655aff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/iman-fatima-207a912a9/" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
-  <a href="mailto:iman.f8094@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-655aff?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:iman.f8094@gmail.com" title="Email">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
   </a>
-</div>
+  <a href="https://github.com/Iman-Fatima0" title="GitHub">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  </a>
+</p>
