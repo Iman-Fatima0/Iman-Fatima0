@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  ![Header Image](https://github.blog/wp-content/uploads/2023/10/Collaboration-DarkMode-3.png?fit=1200%2C630)
+  ![Header](https://github.blog/wp-content/uploads/2023/10/Collaboration-DarkMode-3.png?fit=1200%2C630)
 
   ---
 
@@ -14,52 +14,43 @@
 
   ---
 
-  ### 🏆 GitHub Trophies
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=Iman-Fatima0&theme=matrix&no-frame=true&margin-w=15&row=2&column=4&title_color=655aff&text_color=b3b3ff)
-
-  ---
-
-  ### 📈 Activity Graph
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Iman-Fatima0&theme=react-dark&hide_border=true&bg_color=0d1117&color=b3b3ff&line=655aff&point=b3b3ff)
+  ### 🏆 GitHub Trophies (Purple/Black)
+  [![Trophies](https://github-profile-trophy.vercel.app/?username=Iman-Fatima0&theme=onedark&no-frame=true&margin-w=15&row=2&column=4&title_color=655aff&text_color=b3b3ff)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 🚀 About Me
-- **Programmable Location**  
-  - Developer Program Manager  
-- 🔭 Working on **low-level programming & database systems**  
-- 🌱 Learning **advanced C++ and distributed databases**  
-- 💬 Ask me about **C/C++, SQL, or backend dev**  
+## 🛠 Tech Stack (Logo-Only)
+<div align="center">
+  
+  ### Languages
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
 
----
+  ### Databases
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
 
-## 🛠 Tech Stack
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-655aff?style=flat&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-655aff?style=flat&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-655aff?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-655aff?style=flat&logo=c&logoColor=white)
+  ### Tools
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" title="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="40" title="Playwright"/>
 
-**Databases:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-655aff?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-655aff?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-655aff?style=flat&logo=mongodb&logoColor=white)
-
-**Tools:**  
-![Tailwind](https://img.shields.io/badge/Tailwind-655aff?style=flat&logo=tailwind-css&logoColor=white)
-![Express](https://img.shields.io/badge/Express-655aff?style=flat&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-655aff?style=flat&logo=node.js&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-655aff?style=flat&logo=playwright&logoColor=white)
+</div>
 
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-655aff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iman-fatima-207a912a9/)
-[![Gmail](https://img.shields.io/badge/Gmail-655aff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iman.f8094@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-655aff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Iman-Fatima0)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=Iman-Fatima0&label=Profile%20Views&color=655aff&style=flat)
+<div align="center">
+  <a href="https://www.linkedin.com/in/iman-fatima-207a912a9/">
+    <img src="https://img.shields.io/badge/-LinkedIn-655aff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:iman.f8094@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-655aff?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
