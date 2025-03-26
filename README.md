@@ -36,12 +36,12 @@
 ## 📫 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/iman-fatima-207a912a9/" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" style="filter: invert(16%) sepia(99%) saturate(7404%) hue-rotate(259deg) brightness(94%) contrast(94%);"/>
   </a> 
   <a href="mailto:iman.f8094@gmail.com" title="Email">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="40" style="filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);"/>
   </a> 
   <a href="https://github.com/Iman-Fatima0" title="GitHub">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="filter: invert(16%) sepia(99%) saturate(7404%) hue-rotate(259deg) brightness(94%) contrast(94%);"/>
   </a>
 </p>
