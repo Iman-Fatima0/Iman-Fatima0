@@ -4,11 +4,12 @@ Welcome to my GitHub space! I'm a **MERN Stack Developer** passionate about buil
 
 ---
 
-
 ### 👩‍💻 About Me
 Heyy! I'm a **dedicated full-stack developer** with an **unmatched enthusiasm** for both **front-end aesthetics** and **back-end logic**. Whether it’s designing pixel-perfect UIs or architecting efficient APIs, I live for that perfect blend of creativity and functionality. ✨
 
-I thrive on **solving real-world problems** and constantly push myself to stay ahead in the game; Always down for a new challenge, a hackathon, or a late-night debugging session with coffee in hand. ☕🚀
+I thrive on **solving real-world problems** and constantly push myself to stay ahead in the game. Currently, I'm diving into **Playwright for API testing**, making sure my apps are not just sleek but also rock solid. 
+
+Beyond coding, I’m all about **mentorship and tech empowerment**—guiding young minds at **Aabroo Welfare High School** and spreading the love for programming. Always down for a new challenge, a hackathon, or a late-night debugging session with coffee in hand. ☕🚀
 
 ---
 
@@ -30,11 +31,11 @@ I thrive on **solving real-world problems** and constantly push myself to stay a
 ---
 
 ### 📊 GitHub Stats
-![Iman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iman-Fatima0&show_icons=true&theme=onedark)
+![Iman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iman-Fatima0&show_icons=true&theme=neon)
 
-![Iman's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Iman-Fatima0&theme=onedark)
+![Iman's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Iman-Fatima0&theme=neon)
 
-![Iman's Coding Graph](https://github-readme-activity-graph.vercel.app/graph?username=Iman-Fatima0&theme=onedark)
+![Iman's Coding Graph](https://github-readme-activity-graph.vercel.app/graph?username=Iman-Fatima0&theme=neon)
 
 ---
 
@@ -51,8 +52,8 @@ Check out my repositories for projects! 😊
 ---
 
 ### ✨ Fun Fact
-💡 I love experimenting with **new web technologies** and challenging myself with complex problem-solving. When I’m not coding, you’ll find me sketching or exploring **new UI design trends**! 🎨
+💡 I can spend hours tweaking UI details, only to switch gears and optimize an API call down to milliseconds. Also, if coding had a vibe check, I’d pass every time. 😎🔥
 
 ---
 
-Thanks for stopping by! Let's build something amazing together. 🚀✨
+Thanks for stopping by! Let’s build something epic together. 🚀💻
