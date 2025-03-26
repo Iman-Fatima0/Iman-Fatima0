@@ -7,7 +7,9 @@ Welcome to my GitHub space! I'm a **MERN Stack Developer** passionate about buil
 ### 👩‍💻 About Me
 Heyy! I'm a **dedicated full-stack developer** with an **unmatched enthusiasm** for both **front-end aesthetics** and **back-end logic**. Whether it’s designing pixel-perfect UIs or architecting efficient APIs, I live for that perfect blend of creativity and functionality. ✨
 
-I thrive on **solving real-world problems** and constantly push myself to stay ahead in the game i'm always down for a new challenge, a hackathon, or a late-night debugging session with coffee in hand. ☕🚀
+I thrive on **solving real-world problems** and constantly push myself to stay ahead in the game. Currently, I'm diving into **Playwright for API testing**, making sure my apps are not just sleek but also rock solid. 
+
+Beyond coding, I’m all about **mentorship and tech empowerment**—guiding young minds at **Aabroo Welfare High School** and spreading the love for programming. Always down for a new challenge, a hackathon, or a late-night debugging session with coffee in hand. ☕🚀
 
 ---
 
@@ -46,6 +48,9 @@ I thrive on **solving real-world problems** and constantly push myself to stay a
   </a>
   <a href="https://github.com/Iman-Fatima0">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="your-portfolio-link">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
