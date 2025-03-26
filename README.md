@@ -2,7 +2,10 @@
 
 <div align="center">
 
-  ![Header](https://github.blog/wp-content/uploads/2023/10/Collaboration-DarkMode-3.png?fit=1200%2C630)
+  ![Debugging Meme](https://i.pinimg.com/originals/2h/Xy/Uh/2hXyUh2d2.jpg) <!-- Pinterest direct image link -->
+
+  *"Debugging: Being the detective in a crime movie where you are also the murderer"*
+
   ## 💅 about me (she/her)
 const iman = {</br>
   pronouns: "she/her",</br>
