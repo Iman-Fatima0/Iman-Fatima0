@@ -5,16 +5,11 @@
   ![Header](https://github.blog/wp-content/uploads/2023/10/Collaboration-DarkMode-3.png?fit=1200%2C630)
 
   ---
-
-  ### 📊 GitHub Stats
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iman-Fatima0&show_icons=true&count_private=true&title_color=655aff&text_color=ffffff&icon_color=655aff&bg_color=0d1117&hide_border=true)
 
-  ### 🔥 Streak Stats
   ![GitHub Streak](https://streak-stats.demolab.com/?user=Iman-Fatima0&theme=nightowl&hide_border=true&background=0d1117&stroke=655aff&ring=655aff&fire=655aff)
 
   ---
-
-  ### 🏆 GitHub Trophies
   [![Trophies](https://github-profile-trophy.vercel.app/?username=Iman-Fatima0&theme=onedark&no-frame=true&margin-w=15&row=2&column=4&title_color=655aff&text_color=b3b3ff)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
@@ -42,6 +37,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="40"/>
   </a> 
   <a href="https://github.com/Iman-Fatima0" title="GitHub">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+    <img color="purple" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
   </a>
 </p>
