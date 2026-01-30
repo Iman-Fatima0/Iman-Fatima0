@@ -1,47 +1,71 @@
-# 🌟 slayin' code & crushin' bugs 🌟
-
+<!-- TOP HERO -->
 <div align="center">
 
-  *"Debugging: Being the detective in a crime movie where you are also the murderer"*
+<img src="https://i.pinimg.com/originals/97/35/82/973582d9b0e0761a1b880edb78b7f4e7.gif" width="420" />
 
-  ##  about me (she/her)
-const iman = {</br>
-  pronouns: "she/her",</br>
-  code: ["js", "ts", "c++", "python"],</br>
-  databases: ["postgres", "mongo", "mySQL"],</br>
-  architecture: ["microservices", "event-driven", "serverless"],</br>
-  currentFocus: "building dope fullstack apps",</br>
-  funFact: "can debug while binge-watching Netflix"</br>
-};</br>
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iman-Fatima0&show_icons=true&count_private=true&title_color=655aff&text_color=ffffff&icon_color=655aff&bg_color=0d1117&hide_border=true)
-
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=Iman-Fatima0&theme=nightowl&hide_border=true&background=0d1117&stroke=655aff&ring=655aff&fire=655aff)
-
-  [![Trophies](https://github-profile-trophy.vercel.app/?username=Iman-Fatima0&theme=onedark&no-frame=true&margin-w=15&row=2&column=4&title_color=655aff&text_color=b3b3ff)](https://github.com/ryo-ma/github-profile-trophy)
+### Hi! Meet me, a Full Stack Developer
 
 </div>
 
-## 🛠 Tech Stack
+---
 
-| **Languages** | **Databases** | **Tools** |
-|--------------|--------------|----------|
-| ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg "JavaScript") | ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg "PostgreSQL") |
-| ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg "TypeScript") | ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg "MySQL") | ![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg "Express") |
-| ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg "C++") | ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg "MongoDB") | ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg "Node.js") |
-| ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg "C") | | ![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg "Figma") |
-| | | ![Playwright](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg "Playwright") |
+<div align="center">
 
+<img src="https://i.pinimg.com/originals/4f/4e/16/4f4e1638e028090ff030ec2ae0fc6919.gif" width="360" />
 
-## 📫 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/iman-fatima-207a912a9/" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
-  </a> 
-  <a href="mailto:iman.f8094@gmail.com" title="Email">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="40 />
-  </a> 
-  <a href="https://github.com/Iman-Fatima0" title="GitHub">
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  </a>
-</p>
+**This is my wish sometimes when my code doesn’t work.**
+
+</div>
+
+---
+
+## *These are some of the skills that I’m using to grind through life hehe.*
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+### Frontend
+![HTML](https://img.shields.io/badge/HTML-0d1117?style=flat-pill&logo=html5&logoColor=8B5CF6)
+![CSS](https://img.shields.io/badge/CSS-0d1117?style=flat-pill&logo=css3&logoColor=8B5CF6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-pill&logo=javascript&logoColor=8B5CF6)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-pill&logo=typescript&logoColor=8B5CF6)
+
+</td>
+<td width="33%" valign="top">
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-pill&logo=node.js&logoColor=8B5CF6)
+![Express](https://img.shields.io/badge/Express-0d1117?style=flat-pill&logo=express&logoColor=8B5CF6)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-pill&logo=mongodb&logoColor=8B5CF6)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-pill&logo=postgresql&logoColor=8B5CF6)
+
+</td>
+<td width="33%" valign="top">
+
+### Tools & Testing
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-pill&logo=git&logoColor=8B5CF6)
+![Playwright](https://img.shields.io/badge/Playwright-0d1117?style=flat-pill&logo=playwright&logoColor=8B5CF6)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-pill&logo=figma&logoColor=8B5CF6)
+
+</td>
+</tr>
+</table>
+
+---
+
+### Wanna say hi? Connect with me over here
+
+<div align="center">
+<a href="https://www.linkedin.com/in/iman-fatima-207a912a9/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:iman.f8094@gmail.com">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="36"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Iman-Fatima0">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36"/>
+</a>
+</div>
